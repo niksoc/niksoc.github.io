@@ -57,6 +57,7 @@
 			<ul>
 			    <li>Web Development</li>
 			    <li>Game Development</li>
+			    <li>Web Scraping</li>
 			</ul>
 		    </div>
 		    <div class="col-sm-3">
@@ -72,6 +73,7 @@
 			    <li>C++</li>
 			    <li>Java</li>
 			    <li>PHP</li>
+			    <li>Python</li>
 			    <li>HTML</li>
 			    <li>CSS</li>
 			    <li>Javascript</li>
@@ -83,6 +85,7 @@
 			    <li>Bootstrap</li>
 			    <li>MongoDB</li>
 			    <li>ExpressJS</li>
+			    <li>Selenium</li>
 			</ul>
 		    </div>
 		</div>
