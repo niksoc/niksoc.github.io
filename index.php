@@ -106,6 +106,7 @@
 			echo $projdet;
 			fclose($projFile);
 			?>
+			<p>I've interned in <a href="https://www.csscorp.com/">CSS Corp</a> where I worked in a migration project. Technologies used - Spring Framework, Hibernate, AngularJS.</p>
 			<p>I'm also a contributor to the <a href="https://github.com/MovingBlocks/Terasology/">Terasology</a> open source project.</p>
 			<small>Data about projects fetched from their respective github pages via a php script.</small>
 		    </div>
