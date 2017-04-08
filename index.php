@@ -41,7 +41,7 @@
 			<div class="media-left media-middle">
 			    <img src="images/face.png" alt="me" class="media-object "></img>
 			</div>
-			<div class="media-body"> <p>I am a second year student at SRM University, KTR. I love computer science and want to keep learning and doing more. I am particularly interested in Artificial Intelligence and its related fields. I am hardworking and value professionalism. I welcome challenges as a way to further my understanding and improve my skills. 
+			<div class="media-body"> <p>I am a third year student at SRM University, KTR. I love computer science and want to keep learning and doing more. I am particularly interested in Artificial Intelligence and its related fields. I am hardworking and value professionalism. I welcome challenges as a way to further my understanding and improve my skills. 
 			</p>
 			</div> 
 		</section> 
@@ -57,7 +57,8 @@
 			<ul>
 			    <li>Web Development</li>
 			    <li>Game Development</li>
-			    <li>Web Scraping</li>
+			    <li>Data Science</li>
+			    <li>Neural Networks</li>
 			</ul>
 		    </div>
 		    <div class="col-sm-3">
@@ -72,20 +73,23 @@
 			<ul>
 			    <li>C++</li>
 			    <li>Java</li>
-			    <li>PHP</li>
 			    <li>Python</li>
-			    <li>HTML</li>
-			    <li>CSS</li>
-			    <li>Javascript</li>
+			    <li>HTML/CSS/Javascript</li>
 			</ul>
 		    </div>
 		    <div class="col-sm-3">
-			<h3>Frameworks/Tools/etc</h3>
+			<h3>Misc</h3>
 			<ul>
-			    <li>Bootstrap</li>
+			    <li>MeteorJS</li>
+			    <li>SQL</li>
 			    <li>MongoDB</li>
-			    <li>ExpressJS</li>
+			    <li>Django</li>
+			    <li>Spring</li>
+			    <li>Hibernate</li>
+			    <li>ReactJS</li>
+			    <li>AngularJS</li>
 			    <li>Selenium</li>
+			    <li>JUnit</li>
 			</ul>
 		    </div>
 		</div>
@@ -102,6 +106,7 @@
 			echo $projdet;
 			fclose($projFile);
 			?>
+			<p>I'm also a contributor to the <a href="https://github.com/MovingBlocks/Terasology/">Terasology</a> open source project.</p>
 			<small>Data about projects fetched from their respective github pages via a php script.</small>
 		    </div>
 		</div>

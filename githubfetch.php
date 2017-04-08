@@ -1,7 +1,7 @@
 <?php
 $str="<ul class='media-list'>";
 $git_base="https://github.com/niksoc/";
-$git_projects=["bigbasket-scraper", "expense_tracker","TicRPG-game-java","dual-game-cpp","drop-game-cpp","pacman-game-cpp"];
+$git_projects=["earthquake", "class-review", "srmconnect", "bigbasket-scraper", "expense_tracker","TicRPG-game-java","dual-game-cpp","drop-game-cpp","pacman-game-cpp"];
 $i=0;
 foreach($git_projects as $git_project){
   $html=file_get_contents($git_base.$git_project) or die("network unreachable");;
